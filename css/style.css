@@ -455,6 +455,7 @@ textarea {
 footer {
   background-color: #50B9B0;
   padding: 5%;
+  margin-top: 10%;
   display: block;
   justify-content: space-around;
   color: white;
